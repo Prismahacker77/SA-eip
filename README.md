@@ -1,2 +1,2 @@
 # whatsmy-EIP
-Detect and describe provisioned EIPs
+Detect and list any provisioned EIPs
